@@ -1,0 +1,9 @@
+body {
+    background-image: url('/assets/websiteBG.jpg');
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-position: center;
+    font-family: sans-serif;
+    color: #000000;
+}
+
